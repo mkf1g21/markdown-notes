@@ -46,7 +46,7 @@ might be difficult to mount anything on top
 
 # third idea
 ## image
-![third image of designs]('Pasted image 20230203103641.png')
+![third image of designs]("Pasted image 20230203103641.png")
 
 ## thoughts
 basic T-beam made of wood, fixed together with glue. this should give a good second moment of area as well as plenty of area for mounting ESCs, other hardware and any potential sensors for a unique selling point.
