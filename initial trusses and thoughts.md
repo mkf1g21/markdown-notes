@@ -1,6 +1,6 @@
 # first idea
 ## image
-![first picture of designs](Pasted image 20230203092827.png)
+![first picture of designs]('Pasted image 20230203092827.png')
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## thoughts
 This truss would use string under the main plane of the structure to transfer the loads
@@ -46,7 +46,7 @@ might be difficult to mount anything on top
 
 # third idea
 ## image
-![third image of designs](Pasted image 20230203103641.png)
+![third image of designs]('Pasted image 20230203103641.png')
 
 ## thoughts
 basic T-beam made of wood, fixed together with glue. this should give a good second moment of area as well as plenty of area for mounting ESCs, other hardware and any potential sensors for a unique selling point.
