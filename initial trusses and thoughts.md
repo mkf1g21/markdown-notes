@@ -1,6 +1,7 @@
 # first idea
 ## image
 ![first picture of designs](Pasted image 20230203092827.png)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## thoughts
 This truss would use string under the main plane of the structure to transfer the loads
 The different iterations of the design show changes of the orientation of the supports to minimise weight and increase rigidity
