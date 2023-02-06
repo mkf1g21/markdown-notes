@@ -1,6 +1,6 @@
 # first idea
 ## image
-![[Pasted image 20230203092827.png]]
+![first picture of designs](Pasted image 20230203092827.png)
 ## thoughts
 This truss would use string under the main plane of the structure to transfer the loads
 The different iterations of the design show changes of the orientation of the supports to minimise weight and increase rigidity
@@ -19,7 +19,7 @@ tensioning the strings properly could be hard
 
 # second idea
 ## image
-![[Pasted image 20230203092802.png]]
+![second image of sketches](Pasted image 20230203092802.png)
 ## thoughts
 on the right is a basic truss that is cut from a single piece of wood. The triangular cut outs will hopefully minimise weight while keeping most of the integrity of the wood. The corners have large radii to minimise the stress concentration.
 Ideally this truss will be easy to extend to any length.
@@ -45,7 +45,7 @@ might be difficult to mount anything on top
 
 # third idea
 ## image
-![[Pasted image 20230203103641.png]]
+![third image of designs](Pasted image 20230203103641.png)
 
 ## thoughts
 basic T-beam made of wood, fixed together with glue. this should give a good second moment of area as well as plenty of area for mounting ESCs, other hardware and any potential sensors for a unique selling point.
